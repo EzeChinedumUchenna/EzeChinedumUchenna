@@ -18,7 +18,8 @@ Skills: Terraform, Kubernetes, Powershell, Git, Jenkins, Docker, CI/CD, Networki
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 ## Azure DevOps
-< img src= "https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e474sssr1lit7o6b5de3u63lib6npp4fdnappif3n5d&rid=giphy.gif&ct=g" />
+(https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e474sssr1lit7o6b5de3u63lib6npp4fdnappif3n5d&rid=giphy.gif&ct=g)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=EzeChinedumUchenna)](https://github.com/ryo-ma/github-profile-trophy)
 
