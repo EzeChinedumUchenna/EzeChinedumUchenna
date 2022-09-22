@@ -1,8 +1,5 @@
-# Welcome to My Github Page
+### Hi there 👋, Welcome to Chinedum's Github Page
 ![image](https://user-images.githubusercontent.com/102483586/191707640-e28558d3-5bdd-447b-862b-79f0ecb1574a.png)
-
-
-### Hi there 👋, 
 
 My name Chinedum and I am from Nigeria. I am a Azure Network/DevOps Engineer. I have 1.5 years Experience in Azure Networking and 0.5 years experirence in Azure DevOps. I passionate learning new things and loves growing my knowledging
 
