@@ -1,5 +1,4 @@
 # Welcome to My Github Page
-![I am a Azure Network/DevOps Engineer](https://thumbs.dreamstime.com/z/devops-icon-set-dev-ops-web-header-banner-w-154166806.jpg)
 ![image](https://user-images.githubusercontent.com/102483586/191707640-e28558d3-5bdd-447b-862b-79f0ecb1574a.png)
 
 
