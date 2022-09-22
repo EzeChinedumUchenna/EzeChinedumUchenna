@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name Chinedum and I am from Nigeria. I am a Azure Network/DevOps Engineer. I have 1.5 years Experience in Azure Network and 0.5 years experirence in Azure DevOps. I passionate learning new things and loves growing my knowledging
+My name Chinedum and I am from Nigeria. I am a Azure Network/DevOps Engineer. I have 1.5 years Experience in Azure Networking and 0.5 years experirence in Azure DevOps. I passionate learning new things and loves growing my knowledging
 
 You can reach out to me via ezechinedum504@gmail.com
 
