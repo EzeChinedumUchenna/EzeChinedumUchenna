@@ -30,11 +30,6 @@ Skills:
 ## Azure DevOps
 ![I am a Azure Network/DevOps Engineer](https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e474sssr1lit7o6b5de3u63lib6npp4fdnappif3n5d&rid=giphy.gif&ct=g)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EzeChinedumUchenna)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzeChinedumUchenna)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EzeChinedumUchenna&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EzeChinedumUchenna)  
 
