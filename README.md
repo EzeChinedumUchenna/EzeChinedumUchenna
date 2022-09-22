@@ -8,7 +8,16 @@ You can reach me via ezechinedum504@gmail.com
 
 Feel Free to view my works :blush:
 
-Skills: Terraform, Kubernetes, Powershell, Git, Jenkins, Docker, CI/CD, Networking
+Skills: 
+- Terraform
+- Kubernetes
+- Powershell
+- Git
+- Jenkins
+- Docker
+- Linux
+- CI/CD
+- Networking
 
 - 🌱 I’m currently learning Ansible 
 - ⚡ Fun fact: I love playing chess and watching Movie 
