@@ -7,7 +7,7 @@ My name Chinedum and I am from Nigeria. I am a Azure Network/DevOps Engineer. I 
 
 You can reach out to me via ezechinedum504@gmail.com
 
-Feel Free to view my works blush
+Feel Free to view my works :blush:
 
 Skills: Terraform, Kubernetes, Powershell, Git, Jenkins, Docker, CI/CD, Networking
 
@@ -32,18 +32,3 @@ Skills: Terraform, Kubernetes, Powershell, Git, Jenkins, Docker, CI/CD, Networki
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EzeChinedumUchenna)  
 
 ![Profile views](https://gpvc.arturio.dev/EzeChinedumUchenna)  
-
-
-
-
-## Hi there 👋
-My name Chinedum and I am from Nigeria. I am a Azure Network/DevOps Engineer. I have 1.5 years Experience in Azure Networking and 0.5 years experirence in Azure DevOps. I passionate learning new things and loves growing my knowledging
-
-You can reach out to me via ezechinedum504@gmail.com
-
-Feel Free to view my works :blush:
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinedum&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
